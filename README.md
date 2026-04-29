@@ -11,6 +11,7 @@ Projectile motion is computed using classical kinematic equations:
 �
 �
 Simulations are implemented using numerical time-stepping and real-time parameter updates.
+
 📊 Key Findings
 45° produces maximum range under ideal conditions
 Angle variation significantly affects trajectory shape
